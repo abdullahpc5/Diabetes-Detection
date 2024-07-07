@@ -1,4 +1,4 @@
-# Diaabetes Prediction
+# Diabetes Prediction
 
 # Predicting Diabetes with Logistic Regression
 
