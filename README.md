@@ -1,4 +1,4 @@
-# predictive-algo
+# Diaabetes Prediction
 
 # Predicting Diabetes with Logistic Regression
 
